@@ -8,3 +8,4 @@ certifi
 charset-normalizer
 idna
 groq
+edge_tts
