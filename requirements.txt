@@ -1,4 +1,1 @@
-aiogram==3.4.1
-groq
-edge-tts
-requests
+pyTelegramBotAPI
